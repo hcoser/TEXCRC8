@@ -1,0 +1,10 @@
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\bin\Debug\ExemploCRC8.exe.config
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\bin\Debug\ExemploCRC8.exe
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\bin\Debug\ExemploCRC8.pdb
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.csprojAssemblyReference.cache
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.frmCRC8.resources
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.Properties.Resources.resources
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.csproj.GenerateResource.cache
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.csproj.CoreCompileInputs.cache
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.exe
+E:\svnTex\RexCOMGAS\CRC8\ExemploCRC8\obj\Debug\ExemploCRC8.pdb
